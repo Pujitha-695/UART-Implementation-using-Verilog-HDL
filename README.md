@@ -188,9 +188,9 @@ while 1:
 
 #### About The Author
 
-**Author**: *A Hareeswar Reddy*
+**Author**: *Nallani Pujitha*
 
-**Personal Email**: *ahreddy05@gmail.com*
+**Personal Email**: *pujithanallani@gmail.com*
 
 **Education**: *B.Tech - Electronics and communication Engineering*
 
