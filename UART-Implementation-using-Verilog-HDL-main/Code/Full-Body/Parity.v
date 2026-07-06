@@ -1,9 +1,6 @@
-//  AUTHOR: Mohamed Maged Elkholy.
-//  INFO.: Undergraduate ECE student, Alexandria university, Egypt.
-//  AUTHOR'S EMAIL: majiidd17@icloud.com
 //  FILE NAME: Parity.v
 //  TYPE: module.
-//  DATE: 30/8/2022
+//  DATE: 30/1/2026
 //  KEYWORDS: Parity, Odd, Even.
 //  PURPOSE: An RTL modelling for Simple-parity-check unit 
 //  uses Odd, Even and no parity methods.
