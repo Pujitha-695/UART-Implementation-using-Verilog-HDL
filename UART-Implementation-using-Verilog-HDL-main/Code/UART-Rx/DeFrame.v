@@ -1,9 +1,6 @@
-//  AUTHOR: Mohamed Maged Elkholy.
-//  INFO.: Undergraduate ECE student, Alexandria university, Egypt.
-//  AUTHOR'S EMAIL: majiidd17@icloud.com
 //  FILE NAME: DeFrame.v
 //  TYPE: module.
-//  DATE: 31/8/2022
+//  DATE: 31/1/2026
 //  KEYWORDS: Frame, Data.
 //  PURPOSE: An RTL modelling for separating the frame
 //  into Data bits, Parity bit, Start and Stop bits.
