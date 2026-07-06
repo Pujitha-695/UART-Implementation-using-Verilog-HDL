@@ -1,9 +1,7 @@
-//  AUTHOR: Mohamed Maged Elkholy.
-//  INFO.: Undergraduate ECE student, Alexandria university, Egypt.
-//  AUTHOR'S EMAIL: majiidd17@icloud.com
+
 //  FILE NAME: DuplexTest.v
 //  TYPE: Test fixture "Test bench".
-//  DATE: 24/9/2022
+//  DATE: 24/1/2026
 //  KEYWORDS: Duplex, UART.
 
 `timescale 1ns/1ps
