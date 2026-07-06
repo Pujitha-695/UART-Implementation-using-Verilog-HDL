@@ -1,6 +1,6 @@
 //  AUTHOR: NALLANI PUJITHA.
 //  INFO.: Undergraduate ECE student,NATIONAL INSTITUTE OF TECHNOLOGY DURGAPUR,WEST BENGAL.
-//  AUTHOR'S EMAIL: majiidd17@icloud.com
+//  AUTHOR'S EMAIL:pujithanallani@gmail.com
 //  FILE NAME: BaudGen.v
 //  TYPE: module.
 //  DATE: 30/1/2026
