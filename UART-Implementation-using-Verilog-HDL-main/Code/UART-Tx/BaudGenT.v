@@ -1,9 +1,6 @@
-//  AUTHOR: Mohamed Maged Elkholy.
-//  INFO.: Undergraduate ECE student, Alexandria university, Egypt.
-//  AUTHOR'S EMAIL: majiidd17@icloud.com
 //  FILE NAME: BaudGenT.v
 //  TYPE: module.
-//  DATE: 30/8/2022
+//  DATE: 30/1/2026
 //  KEYWORDS: Baud Rate, Clock Generator.
 //  PURPOSE: An RTL modelling for a 50MHz-clock gating which generates
 //  slower clock rates that meets the specified Baud Rates.
